@@ -1,4 +1,5 @@
 # Boolean Information Retrieval
+<<<<<<< HEAD
 
 This project was truly interesting to us as it helped us learn the interesting world of text processing and how it comes to aid the information retrieval field. 
 
@@ -66,3 +67,6 @@ This python Notebook covers various text processing tasks for both English and F
 For any inquiries or further information don't hesitate to contact us!
 
 
+=======
+This repository contains our team assignments and projects from the Intro to Information Retrieval Course.
+>>>>>>> 500ef81528ce471225686260e7ed1e888dfd1eae
